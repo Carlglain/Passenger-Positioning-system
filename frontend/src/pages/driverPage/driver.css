@@ -1,0 +1,21 @@
+.display-passengers-container{
+    border-style: solid;
+    max-width:40%;
+    min-height:fit-content;
+    margin-left: 25vh;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    padding-bottom: 2rem;
+}
+.display-passengers{
+
+}
+.icon-active-passenger{
+    margin-left: 20px;
+    position: relative;
+    top: 5px;
+}
+h1{
+    margin-left: 40%;
+}

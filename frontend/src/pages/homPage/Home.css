@@ -1,0 +1,14 @@
+.homecontainer{
+    max-width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 5px auto 0px;
+    padding: 10px;
+}
+p{
+    padding: 0.5rem;
+}
+.Link{
+    text-decoration: none;
+    color: #007bff;
+}
